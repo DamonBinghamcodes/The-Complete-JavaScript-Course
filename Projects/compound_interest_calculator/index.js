@@ -29,3 +29,7 @@ function calculateRegular(initAmount, monthlyContribution, numberOfYears) {
 // step 3 - to create a run function that then prompts the user for all necessary inputs required to calculate the final amounts
 
 // step 4 - inside of said function, make a nice pretty print statement using a template literal string that gives the financial breakdown
+
+// just testing to see if git reads this change.
+
+// test 2
